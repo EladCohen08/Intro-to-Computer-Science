@@ -1,0 +1,36 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+.vs/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# C/C++ / Java / Build
+bin/
+build/
+target/
+*.class
+cmake-build-*/
+
+# Binaries & archives
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.pdb
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+
+# Node
+node_modules/

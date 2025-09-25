@@ -1,0 +1,3 @@
+cd C:\Users\amir.cohen\NutriAI-backend
+venv\Scripts\activate
+uvicorn main:app --reload
